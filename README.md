@@ -156,61 +156,61 @@ IPL-2026-Team-Performance-Analytics
 
 ## 🏆 Royal Challengers Bengaluru
 
-![RCB](images/RCB.png)
+![RCB](images/rcb.png)
 
 ---
 
 ## 🔷 Gujarat Titans
 
-![GT](Images/GT.png)
+![GT](images/gt.png)
 
 ---
 
 ## 💗 Rajasthan Royals
 
-![RR](Images/RR.png)
+![RR](images/rr.png)
 
 ---
 
 ## 🧡 Sunrisers Hyderabad
 
-![SRH](Images/SRH.png)
+![SRH](images/srh.png)
 
 ---
 
 ## ❤️ Punjab Kings
 
-![PBKS](Images/PBKS.png)
+![PBKS](images/pbks.png)
 
 ---
 
 ## 🔵 Delhi Capitals
 
-![DC](Images/DC.png)
+![DC](images/dc.png)
 
 ---
 
 ## 💜 Kolkata Knight Riders
 
-![KKR](Images/KKR.png)
+![KKR](images/kkr.png)
 
 ---
 
 ## 💛 Chennai Super Kings
 
-![CSK](Images/CSK.png)
+![CSK](images/csk.png)
 
 ---
 
 ## 🔵 Mumbai Indians
 
-![MI](Images/MI.png)
+![MI](images/mi.png)
 
 ---
 
 ## 🔷 Lucknow Super Giants
 
-![LSG](Images/LSG.png)
+![LSG](images/lsg.png)
 
 ---
 
