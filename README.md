@@ -150,13 +150,13 @@ IPL-2026-Team-Performance-Analytics
 
 ## 🏠 Front Page
 
-![Front Page](Images/Cover.png)
+![Front Page](images/Cover.png)
 
 ---
 
 ## 🏆 Royal Challengers Bengaluru
 
-![RCB](Images/RCB.png)
+![RCB](images/RCB.png)
 
 ---
 
